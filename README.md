@@ -27,7 +27,6 @@
 - Building backend APIs and microservices using Spring Boot  
 - Learning advanced backend patterns and security implementations  
 - Improving problem-solving skills on LeetCode  
-- Exploring real-world data engineering scenarios
 
 ---
 
