@@ -46,8 +46,8 @@ If you have a project idea or want to build something together, feel free to rea
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/github.png"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.icons8.com/ios-filled/30/linkedin.png"/></a>
+  <a href="https://github.com/rohithgogi" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/github.png"/></a>
+  <a href="https://www.linkedin.com/in/gogi-redy-rohith-5ab17b246/" target="_blank"><img src="https://img.icons8.com/ios-filled/30/linkedin.png"/></a>
 </p>
 
 ---
