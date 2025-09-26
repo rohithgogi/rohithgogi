@@ -6,19 +6,19 @@
 ### 👨‍💻 About Me
 
 - 💼 Working as a **Full Stack Java Developer (Backend Focused)** at **Ascendion Engineering Pvt Ltd, India**.
-- 🚀 Specializing in **Backend Development** with **Spring Boot**, **Microservices**, **JWT**, and the broader **Spring Framework** ecosystem.
+- 🚀 Specializing in **Backend Development** with **Spring Boot**, **Microservices**, **JWT** and **Spring Security**.
 - 📊 Experienced in **Data Engineering**, working with **Power BI**, **SQL**, and **SSIS**.
 - 🛠️ Continuously developing my **problem-solving skills** through regular **LeetCode** practice.
-- 🤝 Open to **collaborating on backend projects**, API development, or anything Spring-related!
+- 🤝 Open to **collaborating on backend projects**, API development, or anything Spring Boot-related!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages**: Java, SQL
-- **Backend Development**: Spring Boot, Spring Framework, Microservices, REST APIs, JWT
+- **Languages**: Java, SQL, HTML, CSS
+- **Backend Development**: Spring Boot, JPA, Hibernate, Microservices, REST APIs, JWT
 - **Data Engineering**: Power BI, SQL Server, SSIS
-- **Tools & Platforms**: Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA
+- **Tools & Platforms**: Git, GitHub, Docker, AWS, Postman, IntelliJ IDEA
 
 ---
 
